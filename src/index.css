@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card-img-top {
+  transition: all 0.2s ease;
+}
+
+.card-img-top:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+/* .contain{
+  width: 100%;
+  padding: 0 18px 0 18px;
+}
+.footer{
+  width: 100%;
+} */
